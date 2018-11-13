@@ -1,0 +1,6 @@
+Git staus
+Git commit
+Git push 
+Git pull
+Git add
+Git log

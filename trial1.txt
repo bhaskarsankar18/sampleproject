@@ -4,3 +4,5 @@ Git push
 Git pull
 Git add
 Git log
+git merge
+git branch
